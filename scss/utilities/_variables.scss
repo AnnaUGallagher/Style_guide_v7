@@ -9,18 +9,12 @@ $color-secondary: #58e1c1;
 
 $btn-base:#fff;
 $btn-default:#51ddfc;
-$btn-default-light: lighten($btn-default, 20%);
 $btn-error:#e4757a;
-$btn-error-light: lighten($btn-error, 20%);
 $btn-info:#927bc1;
-$btn-info-light: lighten($btn-info, 20%);
 $btn-success:#63cc82;
-$btn-success-light: lighten($btn-success, 20%);
 $btn-warning:#fd7856;
-$btn-warning-light: lighten($btn-warning, 20%);     
+  
  
-    
-
 //column colors
 $col-3: #deb2ee;
 $col-4:#7ee6fd;
@@ -35,5 +29,6 @@ $color-border-light: lighten($color-primary, 15%);
 $font-weight-primary: 300;
 $font-weight-secondary:700;
 $font-stack-primary: 'Lato', sans-serif;
-//border-radius:
+
+//border-radius
 $border-radius:5px;

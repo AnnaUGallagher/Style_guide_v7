@@ -18,35 +18,35 @@
   .default {
     background-color:$btn-default;
     &:hover {
-      background-color: $btn-default-light;
+      background-color: lighten($btn-default, 20%);
     }
   }
   
   .error {
     background-color: $btn-error;
     &:hover {
-      background-color: $btn-error-light;
+      background-color: lighten($btn-error, 20%);
     }
   }
   
   .info {
     background-color:$btn-info;
     &:hover {
-      background-color: $btn-info-light;
+      background-color: lighten($btn-info, 20%);
     }
   }
   
   .success {
     background-color:$btn-success;
     &:hover {
-      background-color: $btn-success-light;
+      background-color: lighten($btn-success, 20%);
     }
   }
   
   .warning {
     background-color:$btn-warning;
     &:hover {
-      background-color: $btn-warning-light;
+      background-color: lighten($btn-warning, 20%);
     }
   }
  
